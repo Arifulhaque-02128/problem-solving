@@ -1,0 +1,4 @@
+Memory address of x ---> 6422296
+Memory address of x using pointer ---> 6422296
+Value of x using pointer ---> 5
+Value of x Now ---> 500
