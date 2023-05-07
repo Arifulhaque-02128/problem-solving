@@ -1,0 +1,1 @@
+orginal_seq[i] = '\0';
